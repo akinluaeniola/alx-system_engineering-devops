@@ -1,2 +1,2 @@
 #!/bin/bash
-head 3 iacta 1 tai1 1
+head -n 3 iacta | tai1 -n 1
